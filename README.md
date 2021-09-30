@@ -9,7 +9,7 @@ This is a password generator that is created with a hash code philosophy. Inside
 
 ## Installation
 ```
-pip install orngpenguen
+pip install orngpenguen==0.0.1
 ```
 
 ## Usage
