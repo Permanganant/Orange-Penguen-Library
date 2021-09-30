@@ -12,11 +12,16 @@ This is a password generator that is created with a hash code philosophy. Inside
 ```python
 import orngpenguen
 
+#Getting password and key from the user
 passwd, key = orngpenguen.Penguen.input_hash()  
 
+#Choose password length (Default character length is 15)
 passwd_len = 35
+
+#Run Hash Algorithm
 hash = orngpenguen.Penguen.hash_generator(passwd,key,passwd_len)
 print("Hash password: ", hash)
+
 ```
 
 
