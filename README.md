@@ -7,7 +7,7 @@ This is a password generator that is created with a hash code philosophy. Inside
 
 [Colab Sample Code Link](https://colab.research.google.com/drive/1jp1WzqbyfbCaPbfvQ5audFYaaclXD_nr#scrollTo=umhSxjZlAG_r)
 
-##Installation
+## Installation
 ```
 pip install orngpenguen
 ```
